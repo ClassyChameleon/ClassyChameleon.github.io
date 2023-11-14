@@ -1,5 +1,8 @@
+Try it out!: https://classychameleon.github.io
+
 # gvg8_job_scraper_web
-A pet project made with Flutter
+A pet project made with Flutter. <br>
+I'm a backend developer so the frontend is very basic 
 
 # What is this?
 This app allows you to search multiple Icelandic employment websites at once and aggregates the results in one handy list.  <br>
