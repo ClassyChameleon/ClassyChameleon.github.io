@@ -2,9 +2,9 @@
 A pet project made with Flutter
 
 # What is this?
-This app allows you to search multiple Icelandic employment websites at once and aggregates the results in one handy list. 
-Currently only Alfred.is and Tvinna.is are supported. 
-Note: Due to CORS, data from Tvinna.is will be fetched from local data. 
+This app allows you to search multiple Icelandic employment websites at once and aggregates the results in one handy list.  <br>
+Currently only Alfred.is and Tvinna.is are supported.  <br>
+Note: Due to CORS, data from Tvinna.is are limited and are fetched from local data if the app is running on the web 
 
 # Technical stuff
 * Asynchronously fetches data from multiple websites. 
