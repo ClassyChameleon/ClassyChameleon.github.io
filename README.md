@@ -1,7 +1,8 @@
 Try it out!: https://classychameleon.github.io
 
 # gvg8_job_scraper_web
-A webscraper for finding jobs, made with flutter. <br>
+> A webscraper for finding jobs, made with flutter.
+
 JobScraper searches on common Icelandic employment websites for jobs that match your search terms. <br>
 Results are shown in one handy list. Duplicates are discarded. <br>
 <br>
@@ -22,7 +23,8 @@ Note: Due to CORS, data from Tvinna.is are limited and are fetched from local da
 * Make website version of JobScraper prettier (at least limit the width of everything)
 * Add a theme
 * Add tests
-  * Test duplicate detection
+  * Add local data for the tests
+  * Test duplicate detection, no result detection, no search words selected detection
   * Test if results are gathered correctly from websites
 
 
