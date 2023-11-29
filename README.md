@@ -1,9 +1,10 @@
-Try it out!: https://classychameleon.github.io
+Try it out!: https://classychameleon.github.io <br>
+Check out the Flutter code behind this website: https://github.com/ClassyChameleon/gvg_job_scraper <br>
 
 # gvg8_job_scraper_web
 > A webscraper for finding jobs, made with flutter.
 
-JobScraper searches on common Icelandic employment websites for jobs that match your search terms. <br>
+Input your search terms and JobScraper will search on common Icelandic employment websites for jobs that match. <br>
 Results are shown in one handy list. Duplicates are discarded. <br>
 <br>
 Designed for mobile, ported on web for easier demonstration. <br>
@@ -17,7 +18,7 @@ Note: Due to CORS, data from Tvinna.is are limited and are fetched from local da
 * Manage Search Presets for people with multiple career opportunities. 
 * Responsive and intuitive interface.
 
-# Possible TODOs
+# TODOs
 * Add local storage to save search presets (sqlite for mobile, maybe window.localstorage for web)
 * Cache results for each search term and add refresh button to start a fresh search
 * Make website version of JobScraper prettier (at least limit the width of everything)
